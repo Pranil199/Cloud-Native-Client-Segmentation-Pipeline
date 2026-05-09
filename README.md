@@ -1,4 +1,4 @@
-# Cloud-Native Client Segmentation Pipeline
+# Cloud-Native Client Segmentation Pipeline.
 
 ## 📌 Project Overview
 This project transforms a local Python-based machine learning script into a scalable, cloud-native analytics pipeline on Google Cloud Platform (GCP). It utilizes K-Means clustering to segment bank customers based on their financial behavior, engagement levels, and demographics, ultimately identifying high-risk churn candidates and high-value loyalists.
